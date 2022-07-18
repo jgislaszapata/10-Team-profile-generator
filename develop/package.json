@@ -1,0 +1,26 @@
+{
+  "name": "profile-generator",
+  "version": "1.0.0",
+  "description": "Command-line application that takes information on a software engineering team and generates a webpage that displays summaries for each team member",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgislaszapata/10-Team-profile-generator.git"
+  },
+  "keywords": [
+    "nodejs",
+    "object-oriented-programming"
+  ],
+  "author": "Jesus Islas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgislaszapata/10-Team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/jgislaszapata/10-Team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^6.5.0"
+  }
+}
